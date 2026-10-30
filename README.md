@@ -8,7 +8,7 @@
 
 ## Descripción
 
-Este repositorio contiene la solución al **Trabajo Práctico N° 2** de la materia Programación para Seguridad Informática[cite: 1]. En este trabajo se desarrollan dos scripts interactivos en PowerShell que implementan entrada y salida de datos por consola, conversión de tipos e interacción con el usuario
+Este repositorio contiene la solución al **Trabajo Práctico N° 2** de la materia Programación para Seguridad Informática. En este trabajo se desarrollan dos scripts interactivos en PowerShell que implementan entrada y salida de datos por consola, conversión de tipos e interacción con el usuario
 
 ---
 
